@@ -85,3 +85,15 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+## 🚀[This Template Document]Getting started
+
+### setup
+
+```sh
+npm ci
+npm run cf-typegen
+npm run typecheck # you will see some errors. but you can ignore it.
+npm run build
+npm run start # you will see rr7 is running on miniflare🔥
+```
